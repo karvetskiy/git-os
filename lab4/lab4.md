@@ -8,31 +8,31 @@
 
 # Выполнение лабораторной работы
 
-1. Я загрузил виртуальную машину  
+1. Я загрузил виртуальную машину (см. [1.1](image/1.1.png))  
 ![VM](image/1.1.png)
-2. Перешел в текстовую консоль с помощью сочетания ```Ctrl + Alt + F3```. У меня доступно 4 виртуальные консоли.  
+2. Перешел в текстовую консоль с помощью сочетания ```Ctrl + Alt + F3```. У меня доступно 4 виртуальные консоли. (см. [2.1](image/2.1.png))  
 ![Текстовая консоль](image/2.1.png)
-3. Вошел под своим логином. При вводе пароля не отображаются никакие символы. 
+3. Вошел под своим логином. При вводе пароля не отображаются никакие символы. (см. [2.2](image/2.2.png)) 
 ![Login](image/2.2.png)
-4. Завершил консольный сеанс, для этого использовал команду ```logout```, чтобы переключиться на графический интерфейс, использовал сочетание ```Ctrl + Alt + F1```  
+4. Завершил консольный сеанс, для этого использовал команду ```logout```, чтобы переключиться на графический интерфейс, использовал сочетание ```Ctrl + Alt + F1``` (см. [2.3](image/2.3.png))  
 ![Logout](image/2.3.png)
-5. У меня установлен менеджер рабочих столов X Window Manager  
+5. У меня установлен менеджер рабочих столов X Window Manager (см. [4.1](image/4.1.png))  
 ![Window manager](image/4.1.png)
 6. Различные графические окружения:  
-	- GNOME (default)  
+	- GNOME (default) (см. [gnome](image/gnome.png))  
 	![GNOME](image/gnome.png)
-	- KDE  
+	- KDE (см. [kde](image/kde.png))  
 	![KDE](image/kde.png)
-	- XFCE  
+	- XFCE (см. [xfce](image/xfce.png))  
 	![XFCE](image/xfce.png)  
 7. Запустил поочередно программы:  
-	- Mozilla Firefox  
+	- Mozilla Firefox (см. [5.1](image/5.1.png))  
 	![Firefox](image/5.1.png)
-	- Text Editor  
+	- Text Editor (см. [5.2](image/5.2.png))  
 	![Editor](image/5.2.png)
-	- LibreOffice Writer  
+	- LibreOffice Writer (см. [5.3](image/5.3.png))  
 	![Writer](image/5.3.png)
-	- Terminal  
+	- Terminal (см. [5.4](image/5.4.png))  
 	![terminal](image/5.4.png)  
 
 # Выводы
